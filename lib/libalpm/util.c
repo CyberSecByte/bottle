@@ -1,7 +1,7 @@
 /*
  *  util.c
  *
- *  Copyright (c) 2006-2022 Pacman Development Team <pacman-dev@lists.archlinux.org>
+ *  Copyright (c) 2006-2022 Bottle Development Team <bottle-dev@lists.archlinux.org>
  *  Copyright (c) 2002-2006 by Judd Vinet <jvinet@zeroflux.org>
  *  Copyright (c) 2005 by Aurelien Foret <orelien@chez.com>
  *  Copyright (c) 2005 by Christian Hamar <krics@linuxforum.hu>
@@ -1185,8 +1185,8 @@ cleanup:
 }
 
 /** Parse a full package specifier.
- * @param target package specifier to parse, such as: "pacman-4.0.1-2",
- * "pacman-4.01-2/", or "pacman-4.0.1-2/desc"
+ * @param target package specifier to parse, such as: "bottle-4.0.1-2",
+ * "bottle-4.01-2/", or "bottle-4.0.1-2/desc"
  * @param name to hold package name
  * @param version to hold package version
  * @param name_hash to hold package name hash

@@ -1,0 +1,26 @@
+# List of source files with translatable strings
+# If a file is commented out, it is because it shouldn't have any
+# translatable strings
+
+# bottle frontend source files
+src/bottle/callback.c
+src/bottle/check.c
+src/bottle/conf.c
+src/bottle/database.c
+src/bottle/deptest.c
+src/bottle/files.c
+#src/bottle/ini.c
+src/bottle/package.c
+src/bottle/bottle.c
+src/bottle/query.c
+src/bottle/remove.c
+src/bottle/sighandler.c
+src/bottle/sync.c
+src/bottle/upgrade.c
+src/bottle/util.c
+#src/bottle/util-common.c
+
+# utililty files
+src/bottle/bottle-conf.c
+src/util/testpkg.c
+src/util/vercmp.c

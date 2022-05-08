@@ -7,7 +7,7 @@ sources = [
   'fakeroot.sh.in',
   'gpg.sh.in',
   'gzip.sh.in',
-  'pacman.sh.in',
+  'bottle.sh.in',
   'strip.sh.in',
   'sudo.sh.in',
   'vcs.sh.in',
