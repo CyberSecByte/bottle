@@ -3,7 +3,7 @@
 #  pactest : run automated testing on the bottle binary
 #
 #  Copyright (c) 2006 by Aurelien Foret <orelien@chez.com>
-#  Copyright (c) 2006-2022 Bottle Development Team <bottle-dev@lists.archlinux.org>
+#  Copyright (c) 2006-2022 Pacman Development Team <bottle-dev@lists.archlinux.org>
 #
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
