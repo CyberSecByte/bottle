@@ -241,7 +241,7 @@ static void usage(int op, const char * const myname)
 static void version(void)
 {
 	printf("\n");
-	printf(":######:- Bottle v%s - libalpm v%s", PACKAGE_VERSION, alpm_version());
+	printf(":######:- Bottle %s - libalpm v%s", PACKAGE_VERSION, alpm_version());
 	printf("\n:#*## #:- Copyright (C) 2006-2022 Pacman Development Team\n");
 	printf(":##/ /#:- Copyright (C) 2002-2006 Judd Vinet\n");
 	printf(":##   #:\n");
