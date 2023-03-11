@@ -1,6 +1,6 @@
 project('bottle',
         'c',
-        version : '2022.2',
+        version : '2023.1',
         license : 'GPLv2+',
         default_options : [
           'c_std=gnu99',
